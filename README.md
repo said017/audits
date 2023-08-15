@@ -1,6 +1,6 @@
 # Said's Smart Contract Audits Reports
 
-This repository represents my portfolio of public smart contract security audits and audit contest findings.
+private/team smart contract security audits and audit contest findings.
 
 ## Audit Contests
 
