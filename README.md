@@ -12,8 +12,11 @@ My code4arena profile : https://code4rena.com/@said
 - Caviar Private Pools - 1 High and 1 Medium : [high-1](https://github.com/code-423n4/2023-04-caviar-findings/issues/801 "Caviar Private Pools") ,[med-1](https://github.com/code-423n4/2023-04-caviar-findings/issues/694 "Caviar Private Pools")
 - Frankencoin - 1 High and 1 Medium : [high-1](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/603 "Frankencoin") ,[med-1](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/567 "Frankencoin")
 - Chainlink Cross Chain Services: CCIP and ARM Network - Identified 1 confirmed finding (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network "CCIP and ARM Network")
-- Maia DAO Ecosystem - Identified 6 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-05-maia-dao-ecosystem "Maia DAO")
+- Maia DAO Ecosystem - 3 Highs and 3 Mediums : [high-1](https://github.com/code-423n4/2023-05-maia-findings/issues/272 "Maia DAO"), [high-2](https://github.com/code-423n4/2023-05-maia-findings/issues/206 "Maia DAO"), [high-3](https://github.com/code-423n4/2023-05-maia-findings/issues/271 "Maia DAO"), [med-1](https://github.com/code-423n4/2023-05-maia-findings/issues/287 "Maia DAO"), [med-2](https://github.com/code-423n4/2023-05-maia-findings/issues/254 "Maia DAO"), [med-3](https://github.com/code-423n4/2023-05-maia-findings/issues/288 "Maia DAO")
 - Nouns DAO - 1 High : [high-1](https://github.com/code-423n4/2023-07-nounsdao-findings/issues/123 "Nouns DAO")
+- Amphora Protocol - Identified 2 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-07-amphora-protocol "Amphora Protocol")
+- Moonwell - Identified 1 solo confirmed finding (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-07-moonwell "Moonwell")
+- Good Entry - Identified 3 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-08-good-entry "Good Entry")
 
 ### Sherlock
 
