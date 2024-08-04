@@ -1,4 +1,4 @@
-# Said's Smart Contract Audits Reports
+# Said's Smart Contract Audits Portfolio
 
 private/team smart contract security audits and audit contest findings.
 
@@ -8,15 +8,25 @@ private/team smart contract security audits and audit contest findings.
 
 My code4arena profile : https://code4rena.com/@said
 
-- Rubicon V2 - Identified 8 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-04-rubicon-v2 "Rubicon V2")
-- Caviar Private Pools - 1 High and 1 Medium : [high-1](https://github.com/code-423n4/2023-04-caviar-findings/issues/801 "Caviar Private Pools") ,[med-1](https://github.com/code-423n4/2023-04-caviar-findings/issues/694 "Caviar Private Pools")
-- Frankencoin - 1 High and 1 Medium : [high-1](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/603 "Frankencoin") ,[med-1](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/567 "Frankencoin")
-- Chainlink Cross Chain Services: CCIP and ARM Network - Identified 1 confirmed finding (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network "CCIP and ARM Network")
-- Maia DAO Ecosystem - 3 Highs and 3 Mediums : [high-1](https://github.com/code-423n4/2023-05-maia-findings/issues/272 "Maia DAO"), [high-2](https://github.com/code-423n4/2023-05-maia-findings/issues/206 "Maia DAO"), [high-3](https://github.com/code-423n4/2023-05-maia-findings/issues/271 "Maia DAO"), [med-1](https://github.com/code-423n4/2023-05-maia-findings/issues/287 "Maia DAO"), [med-2](https://github.com/code-423n4/2023-05-maia-findings/issues/254 "Maia DAO"), [med-3](https://github.com/code-423n4/2023-05-maia-findings/issues/288 "Maia DAO")
-- Nouns DAO - 1 High : [high-1](https://github.com/code-423n4/2023-07-nounsdao-findings/issues/123 "Nouns DAO")
-- Amphora Protocol - Identified 2 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-07-amphora-protocol "Amphora Protocol")
-- Moonwell - Identified 1 solo confirmed finding (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-07-moonwell "Moonwell")
-- Good Entry - Identified 3 confirmed findings (Finding not yet public) : [contest page](https://code4rena.com/contests/2023-08-good-entry "Good Entry")
+|Contest|Description|Findings|Rank|Report|
+|:------|:----------|:-------|:--:|:----:|
+|[Rubicon V2](https://code4rena.com/audits/2023-04-rubicon-v2#top)|Orderbook|8 confirmed findings|34th|Not published|
+|[Caviar Private Pools](https://code4rena.com/audits/2023-04-caviar-private-pools#top)|NFT, AMM|1H, 1M|64th|[link](https://code4rena.com/reports/2023-04-caviar)|
+|[Frankencoin](https://code4rena.com/reports/2023-04-frankencoin)|Stablecoin|1 H, 1 M|48th|[link](https://code4rena.com/reports/2023-04-frankencoin)|
+|[Chainlink CCIP](https://code4rena.com/audits/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top)|Crosschain|1 H|24th|Not published|
+|[Maia DAO Ecosystem](https://code4rena.com/audits/2023-05-maia-dao-ecosystem#top)|Vault, DAO, AMM |3H, 3M|15th| [link](https://code4rena.com/reports/2023-05-maia)|
+|[Nouns DAO](https://code4rena.com/audits/2023-07-nouns-dao#top)|DAO|1 H|4th|[link](https://code4rena.com/reports/2023-07-nounsdao)|
+|[Amphora Protocol](https://code4rena.com/audits/2023-07-amphora-protocol#top)|Vault, lending|2H|2nd| [link](https://code4rena.com/reports/2023-07-amphora)|
+|[Moonwell](https://code4rena.com/audits/2023-07-moonwell#top)|Lending| 1 M|7th|[link](https://code4rena.com/reports/2023-07-moonwell)|
+|[Good Entry](https://code4rena.com/audits/2023-08-good-entry#top)|Vault, Trading|2H 1M|6th|[link](https://code4rena.com/reports/2023-08-goodentry)|
+|[Dopex](https://code4rena.com/audits/2023-08-dopex#top)|Vault, Trading|5H 5M|1st|[link](https://code4rena.com/reports/2023-08-dopex)|
+|[Venus Prime](https://code4rena.com/audits/2023-09-venus-prime#top)|Lending|2H 1M|13th|[link](https://code4rena.com/reports/2023-09-venus)|
+|[Init Capital - 1](https://code4rena.com/audits/2023-12-init-capital-invitational#top)|Lending|2H 4M|1st|[link](https://code4rena.com/reports/2023-12-initcapital)|
+|[Particle](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)|AMM|2H 3M|2nd|[link](https://code4rena.com/reports/2023-12-particle)|
+|[reNFT](https://code4rena.com/audits/2024-01-renft#top)|NFT rentals|1H 5M|4th|[link](https://code4rena.com/reports/2024-01-renft)|
+|[Init Capital - 2](https://code4rena.com/audits/2024-01-init-capital-invitational#top)|Lending|3H 2M|1st|[link](https://code4rena.com/reports/2024-01-init-capital-invitational)|
+|[Neobase](https://code4rena.com/audits/2024-03-neobase-invitational#top)|DAO, Gauge|1H 3M|2nd|[link](https://code4rena.com/reports/2024-03-neobase)|
+|[Noya](https://code4rena.com/audits/2024-04-noya#top)|Vault, Multichain|14 confirmed findings|11th|Not published|
 
 ### Sherlock
 
