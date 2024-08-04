@@ -52,4 +52,16 @@ My code4arena profile : https://code4rena.com/@said
 ### Guardian Lab
 
 - DIVA Protocol - 2 Meds and 2 Lows :  [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/DIVA/DivaAuditTeam6.md "DIVA Full Report")
-- Poodl - 3 Criticals, 1 High, 6 Mediums, 3 Lows : [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/poodl/PoodlAuditTeam6.md "Poodl") 
+- Poodl - 3 Criticals, 1 High, 6 Mediums, 3 Lows : [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/poodl/PoodlAuditTeam6.md "Poodl")
+
+### Pashov Group
+- Ebisu Vault - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Ebisu-security-review.pdf)
+- Brrito - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Brrito-security-review.pdf)
+- Subsquid - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)
+- Hytopia - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Hytopia-security-review.pdf)
+- Gains - [full report](https://github.com/pashov/audits/blob/master/team/pdf/GainsNetwork-security-review.pdf)
+- Catalyst - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Catalyst-security-review-april.pdf)
+- Gains (May 2024) - [full report](https://github.com/pashov/audits/blob/master/team/pdf/GainsNetwork-security-review-May.pdf)
+- Ion Protocol - [full report](https://github.com/pashov/audits/blob/master/team/pdf/IonProtocol-security-review.pdf)
+- Serious - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Serious-security-review.pdf)
+- Lucidly - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Lucidly-security-review-June.pdf)
