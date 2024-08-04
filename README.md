@@ -30,10 +30,22 @@ My code4arena profile : https://code4rena.com/@said
 
 ### Sherlock
 
-- Derby - 5 Mediums : [med-1](https://github.com/sherlock-audit/2023-01-derby-judging/issues/218 "Derby"), [med-2](https://github.com/sherlock-audit/2023-01-derby-judging/issues/211 "Derby"), [med-3](https://github.com/sherlock-audit/2023-01-derby-judging/issues/151 "Derby"), [med-4](https://github.com/sherlock-audit/2023-01-derby-judging/issues/148 "Derby"), [med-5](https://github.com/sherlock-audit/2023-01-derby-judging/issues/113 "Derby")
-- Teller - 3 Mediums : [med-1](https://github.com/sherlock-audit/2023-03-teller-judging/issues/480 "Teller"), [med-2](https://github.com/sherlock-audit/2023-03-teller-judging/issues/417 "Teller"), [med-3](https://github.com/sherlock-audit/2023-03-teller-judging/issues/401 "Teller")
-- USSD - 7 Highs and 3 Mediums : [high-1](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/123 "USSD"), [high-2](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/106 "USSD"), [high-3](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/41 "USSD"), [high-4](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/34 "USSD"), [high-5](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/33 "USSD"), [high-6](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/32 "USSD"), [high-7](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/28 "USSD"), [med-1](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/119 "USSD"), [med-2](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/111 "USSD"), [med-3](https://github.com/sherlock-audit/2023-05-USSD-judging/issues/27 "USSD")
-- Tokemak V2 (Escalation Stage) - 9 Highs and 1 Medium : [judging repo](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues?q=saidam017 "Tokemak V2")
+|Contest|Description|Findings|Rank|Report|
+|:------|:----------|:-------|:--:|:----:|
+|[Derby](https://audits.sherlock.xyz/contests/13)|Vault, Multichain|5M|18th|[link](https://audits.sherlock.xyz/contests/13/report)|
+|[Teller](https://audits.sherlock.xyz/contests/62)|Lending|3M|15th|[link](https://audits.sherlock.xyz/contests/62/report)|
+|[USSD](https://audits.sherlock.xyz/contests/82)|Stablecoin|7H 3M|14th|[link](https://audits.sherlock.xyz/contests/82/report)|
+|[Tokemak V2](https://audits.sherlock.xyz/contests/101)|Vault|9H 1M|8th|[link](https://audits.sherlock.xyz/contests/101/report)|
+|[Smilee](https://audits.sherlock.xyz/contests/180)|Vault, Trading, Options|1M|4th|[link](https://audits.sherlock.xyz/contests/180/report)|
+|[Zivoe](https://audits.sherlock.xyz/contests/280)|Lending|3H 4M|29th|[link](https://audits.sherlock.xyz/contests/280/report)|
+
+### Cantina
+
+|Contest|Description|Findings|Rank|Report|
+|:------|:----------|:-------|:--:|:----:|
+|[Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)|Vault, Lending|1M|7th|[link](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)|
+|[Metamorpho and Periphery](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)|Vault, Lending|1st Low findings|4th|[link](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af)|
+|[Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)|Vault, Multichain|1H 2M|7th|[link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)|
 
 ## Private/Team Audits
 
