@@ -59,7 +59,7 @@ My code4arena profile : https://code4rena.com/@said
 - Brrito - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Brrito-security-review.pdf)
 - Subsquid - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Subsquid-security-review.pdf)
 - Hytopia - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Hytopia-security-review.pdf)
-- Gains - [full report](https://github.com/pashov/audits/blob/master/team/pdf/GainsNetwork-security-review.pdf)
+- Gains 
 - Catalyst - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Catalyst-security-review-april.pdf)
 - Gains (May 2024) - [full report](https://github.com/pashov/audits/blob/master/team/pdf/GainsNetwork-security-review-May.pdf)
 - Ion Protocol - [full report](https://github.com/pashov/audits/blob/master/team/pdf/IonProtocol-security-review.pdf)
