@@ -49,11 +49,6 @@ My code4arena profile : https://code4rena.com/@said
 
 ## Private/Team Audits
 
-### Guardian Lab
-
-- DIVA Protocol - 2 Meds and 2 Lows :  [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/DIVA/DivaAuditTeam6.md "DIVA Full Report")
-- Poodl - 3 Criticals, 1 High, 6 Mediums, 3 Lows : [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/poodl/PoodlAuditTeam6.md "Poodl")
-
 ### Pashov Group
 - Ebisu Vault - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Ebisu-security-review.pdf)
 - Brrito - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Brrito-security-review.pdf)
@@ -78,3 +73,10 @@ My code4arena profile : https://code4rena.com/@said
 - Cove - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf)
 - Ostium - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-01-21.pdf) , [full report part 2](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-04-06.pdf)
 - KittenSwap - [full report](https://github.com/pashov/audits/blob/master/team/pdf/KittenSwap-security-review_2025-05-07.pdf)
+
+### Guardian Lab
+
+- DIVA Protocol :  [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/DIVA/DivaAuditTeam6.md "DIVA Full Report")
+- Poodl : [full report](https://github.com/GuardianAudits/DefenderAudits/blob/main/poodl/PoodlAuditTeam6.md "Poodl")
+- True Markets : : [full report](https://github.com/GuardianAudits/Audits/blob/main/Truemarkets/2025-03-18_Truemarkets_Report.pdf)
+
