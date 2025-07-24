@@ -73,6 +73,7 @@ My code4arena profile : https://code4rena.com/@said
 - Cove - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf)
 - Ostium - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-01-21.pdf) , [full report part 2](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-04-06.pdf)
 - KittenSwap - [full report](https://github.com/pashov/audits/blob/master/team/pdf/KittenSwap-security-review_2025-05-07.pdf)
+- Stardusts - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Stardusts-security-review_2024-12-19.pdf)
 
 ### Guardian Lab
 
