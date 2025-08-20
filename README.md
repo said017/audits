@@ -10,11 +10,6 @@ My code4arena profile : https://code4rena.com/@said
 
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
-|[Rubicon V2](https://code4rena.com/audits/2023-04-rubicon-v2#top)|Orderbook|8 confirmed findings|34th|Not published|
-|[Caviar Private Pools](https://code4rena.com/audits/2023-04-caviar-private-pools#top)|NFT, AMM|1H, 1M|64th|[link](https://code4rena.com/reports/2023-04-caviar)|
-|[Frankencoin](https://code4rena.com/reports/2023-04-frankencoin)|Stablecoin|1 H, 1 M|48th|[link](https://code4rena.com/reports/2023-04-frankencoin)|
-|[Chainlink CCIP](https://code4rena.com/audits/2023-05-chainlink-cross-chain-services-ccip-and-arm-network#top)|Crosschain|1 H|24th|Not published|
-|[Maia DAO Ecosystem](https://code4rena.com/audits/2023-05-maia-dao-ecosystem#top)|Vault, DAO, AMM |3H, 3M|15th| [link](https://code4rena.com/reports/2023-05-maia)|
 |[Nouns DAO](https://code4rena.com/audits/2023-07-nouns-dao#top)|DAO|1 H|🏅 4th|[link](https://code4rena.com/reports/2023-07-nounsdao)|
 |[Amphora Protocol](https://code4rena.com/audits/2023-07-amphora-protocol#top)|Vault, lending|2H|🥈 2nd| [link](https://code4rena.com/reports/2023-07-amphora)|
 |[Moonwell](https://code4rena.com/audits/2023-07-moonwell#top)|Lending| 1 M|7th|[link](https://code4rena.com/reports/2023-07-moonwell)|
