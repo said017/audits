@@ -15,13 +15,11 @@ My code4arena profile : https://code4rena.com/@said
 |[Moonwell](https://code4rena.com/audits/2023-07-moonwell#top)|Lending| 1 M|7th|[link](https://code4rena.com/reports/2023-07-moonwell)|
 |[Good Entry](https://code4rena.com/audits/2023-08-good-entry#top)|Vault, Trading|2H 1M|6th|[link](https://code4rena.com/reports/2023-08-goodentry)|
 |[Dopex](https://code4rena.com/audits/2023-08-dopex#top)|Vault, Trading|5H 5M|🥇 1st|[link](https://code4rena.com/reports/2023-08-dopex)|
-|[Venus Prime](https://code4rena.com/audits/2023-09-venus-prime#top)|Lending|2H 1M|13th|[link](https://code4rena.com/reports/2023-09-venus)|
 |[Init Capital - 1](https://code4rena.com/audits/2023-12-init-capital-invitational#top)|Lending|2H 4M|🥇 1st|[link](https://code4rena.com/reports/2023-12-initcapital)|
 |[Particle](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)|AMM|2H 3M|🥈 2nd|[link](https://code4rena.com/reports/2023-12-particle)|
 |[reNFT](https://code4rena.com/audits/2024-01-renft#top)|NFT rentals|1H 5M|🏅 4th|[link](https://code4rena.com/reports/2024-01-renft)|
 |[Init Capital - 2](https://code4rena.com/audits/2024-01-init-capital-invitational#top)|Lending|3H 2M|🥇 1st|[link](https://code4rena.com/reports/2024-01-init-capital-invitational)|
 |[Neobase](https://code4rena.com/audits/2024-03-neobase-invitational#top)|DAO, Gauge|1H 3M|🥈 2nd|[link](https://code4rena.com/reports/2024-03-neobase)|
-|[Noya](https://code4rena.com/audits/2024-04-noya#top)|Vault, Multichain|14 confirmed findings|11th|Not published|
 
 ### Sherlock
 
