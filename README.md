@@ -67,6 +67,35 @@ My code4arena profile : https://code4rena.com/@said
 - Ostium - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-01-21.pdf) , [full report part 2](https://github.com/pashov/audits/blob/master/team/pdf/Ostium-security-review_2025-04-06.pdf)
 - KittenSwap - [full report](https://github.com/pashov/audits/blob/master/team/pdf/KittenSwap-security-review_2025-05-07.pdf)
 - Stardusts - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Stardusts-security-review_2024-12-19.pdf)
+- Spectra - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Spectra-security-review_2025-01-17.pdf)
+- Biconomy Composability - [full report](https://github.com/pashov/audits/blob/master/team/pdf/BiconomyComposability-security-review_2025-03-22.pdf)
+- Level - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Level-security-review_2025-04-09.pdf)
+- Rip it - [full report](https://github.com/pashov/audits/blob/master/team/pdf/RipIt-security-review_2025-04-25.pdf)
+- TokenLogic - [full report](https://github.com/pashov/audits/blob/master/team/pdf/TokenLogic-security-review_2025-05-05.pdf)
+- Hyperbloom - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Hyperbloom-security-review_2025-06-24.pdf)
+- Covenant - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Covenant-security-review_2025-08-18.pdf)
+- Napier - [full report](https://github.com/pashov/audits/blob/master/team/pdf/Napier-security-review_2025-09-30.pdf)
+
+### Zenith
+
+- Stream - [full report](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Stream%20Protocol.pdf)
+- Yala - [full report](https://github.com/zenith-security/reports/blob/main/reports/Yala%20-%20Zenith%20Audit%20Report.pdf)
+- More Markets - [full report](https://github.com/zenith-security/reports/blob/main/reports/MORE%20Markets%20-%20Zenith%20Audit%20Report.pdf)
+- Vicuna - [full report](https://github.com/zenith-security/reports/blob/main/reports/Vicuna%20Finance%20-%20Zenith%20Audit%20Report.pdf)
+- Yala Stablecoin - [full report](https://github.com/zenith-security/reports/blob/main/reports/Yala%20Stablecoin%20-%20Zenith%20Audit%20Report.pdf)
+- Hyperswell - [full report](https://github.com/zenith-security/reports/blob/main/reports/Hyperswell%20-%20Zenith%20Audit%20Report.pdf)
+- Succinct - [full report](https://github.com/zenith-security/reports/blob/main/reports/Succinct%20-%20Zenith%20Audit%20Report.pdf)
+- Valantis - [full report](https://github.com/zenith-security/reports/blob/main/reports/Valantis%20-%20Zenith%20Audit%20Report.pdf), [full report](https://github.com/zenith-security/reports/blob/main/reports/Valantis%20-%20Zenith%20Audit%20Report%20(August).pdf)
+- Biconomy Composability MEE - [full report](https://github.com/zenith-security/reports/blob/main/reports/Biconomy%20-%20Zenith%20Audit%20Report.pdf)
+- Berachain Aggregator - [full report](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20Meta%20Aggregator%20-%20Zenith%20Audit%20Report.pdf)
+- Lindy - [full report](https://github.com/zenith-security/reports/blob/main/reports/Lindy%20-%20Zenith%20Audit%20Report.pdf)
+- Theo - [full report](https://github.com/zenith-security/reports/blob/main/reports/Theo%20-%20Zenith%20Audit%20Report.pdf)
+- Morpheus - [full report](https://github.com/zenith-security/reports/blob/main/reports/Morpheus%20-%20Zenith%20Audit%20Report.pdf)
+- Mitosis - [full report](https://github.com/zenith-security/reports/blob/main/reports/Mitosis%20-%20Zenith%20Audit%20Report%20(September).pdf)
+- Rarebets - [full report](https://github.com/zenith-security/reports/blob/main/reports/RareBetSports%20-%20Zenith%20Audit%20Report.pdf)
+- Hyperwave - [full report](https://github.com/zenith-security/reports/blob/main/reports/Hyperwave%20-%20Zenith%20Audit%20Report.pdf)
+- Paxos Lab - [full report](https://github.com/zenith-security/reports/blob/main/reports/Paxos%20Labs%20-%20Zenith%20Audit%20Report.pdf)
+- Ammplify - [full report](https://github.com/zenith-security/reports/blob/main/reports/Ammplify%20-%20Zenith%20Audit%20Report.pdf)
 
 ### Guardian Lab
 
