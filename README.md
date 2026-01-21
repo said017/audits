@@ -1,6 +1,6 @@
 # Said's Smart Contract Audits Portfolio
 
-private/team smart contract security audits and audit contest findings.
+Placed highly in audit competitions and completed 50+ private audits, including Aave, Gains, Morpho Blue, and Bancor.
 
 ## Audit Contests
 
