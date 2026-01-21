@@ -1,6 +1,6 @@
 # Said's Smart Contract Audits Portfolio
 
-Placed highly in audit competitions and completed 50+ private audits, including Aave, Gains, Morpho Blue, and Bancor.
+Said is a senior smart contract security researcher who has placed highly in audit competitions and completed 50+ private audits. He has extensive experience auditing DeFi products, including lending protocols, perpetuals, bonding curves, AMMs, and complex financial primitives. He is proficient in auditing protocols written in Solidity, Cairo/Starknet, and Vyper.
 
 ## Audit Contests
 
