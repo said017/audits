@@ -1,6 +1,6 @@
 # Said's Smart Contract Audits Portfolio
 
-Said is a senior smart contract security researcher who has placed highly in audit competitions and completed 50+ private audits. He has extensive experience auditing DeFi products, including lending protocols, perpetuals, bonding curves, AMMs, and complex financial primitives. He is proficient in auditing protocols written in Solidity, Cairo/Starknet, and Vyper.
+Said is a senior smart contract security researcher who has placed highly in audit competitions and completed 70+ private audits. He has extensive experience auditing DeFi products, including lending protocols, perpetuals, bonding curves, AMMs, and complex financial primitives. He is proficient in auditing protocols written in Solidity, Cairo/Starknet, CosmWasm and Vyper.
 
 ## Audit Contests
 
